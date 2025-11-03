@@ -1,4 +1,4 @@
-# Docker Frontend Applications Practice
+# Docker Frontend Applications for Practice.
 
 This repository contains three different frontend applications perfect for practicing Docker containerization:
 
